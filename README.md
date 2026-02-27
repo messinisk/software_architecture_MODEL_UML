@@ -3,7 +3,7 @@ Creative Commons CC BY-NC-ND 4.0
 
 
 - Read View  lang :
-  - [El PDF](el/software_architecture_MODEL_UML_el.pdf)
+  - [El PDF](software_architecture_MODEL_UML_el.pdf)
 - Read  View More
 
 **ΠΡΟΛΟΓΟΣ**
